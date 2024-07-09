@@ -6,9 +6,10 @@
   - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel. 
 
 ## 📫 Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalyla_ti/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/kalylalobato)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalyla_ti/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/users/kalylalobato)
+[![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -24,3 +25,4 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a>
+
