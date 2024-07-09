@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalyla_ti/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/users/kalylalobato)
 [![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
-
+[![Perfil Udemy](https://img.shields.io/badge/-Meu%20Perfil%20na%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/kalyla-lobato-da-costa-pinheiro/)
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
