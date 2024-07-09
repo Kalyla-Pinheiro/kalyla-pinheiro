@@ -15,7 +15,7 @@
 [![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
 [![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
 [![DIO](https://img.shields.io/badge/-%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/)
-[![B7Web](https://img.shields.io/badge/-%20B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white)](https://alunos.b7web.com.br/).
+[![B7Web](https://img.shields.io/badge/-%20B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white)](https://alunos.b7web.com.br/)
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
