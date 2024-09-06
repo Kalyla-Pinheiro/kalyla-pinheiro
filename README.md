@@ -1,11 +1,11 @@
 # Kalyla-Pinheiro
     Olá me chamo Kalyla! 👋
+<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width ="400">
 
 ## 🚀 Sobre mim
   - 👩‍💻 Atualmente, estou cursando Sistemas de informação na Ufra. Nesse contexto, busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
+    
   - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel.
-
-<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 
 ## 📫 Conecte-se comigo
 
@@ -14,12 +14,19 @@
 [![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
 
 ## ☕ Plataformas de estudo
+ <img src= "https://i.pinimg.com/originals/d2/af/4f/d2af4f542776eb6d43360520e6966738.gif" width ="330" >
+
 [![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
 [![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
 [![DIO](https://img.shields.io/badge/-%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/)
 [![B7Web](https://img.shields.io/badge/-%20B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white)](https://alunos.b7web.com.br/)
 
+
+
+
 ## Habilidades
+ <img src="https://i.pinimg.com/736x/a8/2d/84/a82d84e9df43d9583bcfb986815c91d4.jpg" width ="421">
+ 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,5 +40,5 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
-<a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
