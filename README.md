@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width ="400">
 
 **Créditos:**
-Desenvolvido ou publicado por: glaminante
+[glaminante](https://br.pinterest.com/glaminante/)
 
 ## 🚀 Sobre mim
   - 👩‍💻 Atualmente, estou cursando Sistemas de informação na Ufra. Nesse contexto, busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
