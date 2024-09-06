@@ -3,7 +3,9 @@
 
 ## 🚀 Sobre mim
   - 👩‍💻 Atualmente, estou cursando Sistemas de informação na Ufra. Nesse contexto, busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
-  - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel. 
+  - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel.
+
+<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 
 ## 📫 Conecte-se comigo
 
