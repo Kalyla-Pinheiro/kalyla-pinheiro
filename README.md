@@ -2,6 +2,9 @@
     Olá me chamo Kalyla! 👋
 <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width ="400">
 
+**Créditos:**
+Desenvolvido ou publicado por: glaminante
+
 ## 🚀 Sobre mim
   - 👩‍💻 Atualmente, estou cursando Sistemas de informação na Ufra. Nesse contexto, busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
     
@@ -14,7 +17,10 @@
 [![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
 
 ## ☕ Plataformas de estudo
- <img src= "https://i.pinimg.com/originals/d2/af/4f/d2af4f542776eb6d43360520e6966738.gif" width ="330" >
+ <img src= "https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width ="330"  height= "250" >
+ 
+**Créditos:**
+Desenvolvido ou publicado por: elar2508
 
 [![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
 [![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
@@ -26,6 +32,9 @@
 
 ## Habilidades
  <img src="https://i.pinimg.com/736x/a8/2d/84/a82d84e9df43d9583bcfb986815c91d4.jpg" width ="421">
+ 
+**Créditos:**
+[khushiprajapati0708](https://es.pinterest.com/elar2508/)
  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
