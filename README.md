@@ -14,7 +14,7 @@
 [![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
 
 ## ☕ Plataformas de estudo
- <img src= "https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width ="330"  height= "250" >
+ <img src= "https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width ="330"  height= "200" >
 
 [![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
 [![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
@@ -25,7 +25,7 @@
 
 
 ## Habilidades
- <img src="https://i.pinimg.com/736x/a8/2d/84/a82d84e9df43d9583bcfb986815c91d4.jpg" width ="421">
+ <img src="https://i.pinimg.com/736x/a8/2d/84/a82d84e9df43d9583bcfb986815c91d4.jpg" width ="421" height= "400">
  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
