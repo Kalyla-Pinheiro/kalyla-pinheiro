@@ -37,15 +37,24 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## Contribuição
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+
+## Contribuição
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+
+## 🏆 GitHub Troféus 
+
+![](https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+    <a href="https://jrohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyla-Pinheiro&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
