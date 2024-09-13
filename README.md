@@ -54,7 +54,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
-    <a href="https://jrohit.com.np/">
+    <a>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyla-Pinheiro&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
