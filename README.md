@@ -1,9 +1,7 @@
-# Kalyla-Pinheiro
-    Olá me chamo Kalyla! 👋
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" height="250">
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Kalyla+Pinheiro;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 ## 🚀 Sobre mim
@@ -18,7 +16,6 @@
 [![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
 
 ## ☕ Plataformas de estudo
- <img src= "https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width ="330"  height= "200" >
 
 [![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
 [![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
@@ -26,10 +23,7 @@
 [![B7Web](https://img.shields.io/badge/-%20B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white)](https://alunos.b7web.com.br/)
 
 
-
-
 ## Habilidades
- <img src="https://i.pinimg.com/736x/a8/2d/84/a82d84e9df43d9583bcfb986815c91d4.jpg" width ="421" height= "400">
  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -61,3 +55,4 @@
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
