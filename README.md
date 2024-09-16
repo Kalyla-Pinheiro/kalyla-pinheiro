@@ -39,8 +39,10 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 ## Contribuição
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFFF00&text_color=FFF)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak Stats" />
 
 ## 🏆 GitHub Troféus 
 
@@ -54,8 +56,6 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyla-Pinheiro&theme=chartreuse-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
-
-
 
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
