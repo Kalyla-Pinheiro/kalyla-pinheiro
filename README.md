@@ -72,4 +72,14 @@
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
+
+
+## 🤩 Projetos com repositórios para acessar e aplicações para visualizar
+
+[![REPOSITORIO](https://img.shields.io/badge/-NLW17-%23E4405F?style=for-the-badge&logoColor=white )](https://github.com/Kalyla-Pinheiro/nlw-17-trilha-iniciante)
+
+https://github.com/user-attachments/assets/3d9333e4-974e-4da5-a3d2-d0a90c5b0d8e
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+
