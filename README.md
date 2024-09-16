@@ -39,10 +39,17 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 ## Contribuição
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
+
+<div align="center">
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&layout=compact&locale=pt-BR&&theme=highcontrast )](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak Stats" />
+</div>
+
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak Stats" />
+</div>
 
 ## 🏆 GitHub Troféus 
 
