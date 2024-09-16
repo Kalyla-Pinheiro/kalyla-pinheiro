@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7CC4C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7CC4C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Kalyla+Pinheiro;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Kalyla+Pinheiro;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 ## 🚀 Sobre mim
@@ -37,11 +37,11 @@
 
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
-[![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 ## Contribuição
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFFF00&text_color=FFF)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 ## 🏆 GitHub Troféus 
 
@@ -55,4 +55,4 @@
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7CC4C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFF00&height=120&section=footer"/>
