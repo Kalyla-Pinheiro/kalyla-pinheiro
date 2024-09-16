@@ -35,8 +35,13 @@
 
 
 
-#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
-[![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+<div align="center">
+  
+  [![Linguagens](https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
+  
+</div>
+
 
 ## Contribuição
 
