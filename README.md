@@ -44,13 +44,19 @@
 
 ## 🏆 GitHub Troféus 
 
-![](https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="2000" />
+</div>
 
+## 📈 Gráfico de contribuição
 <p align="center">
     <a>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyla-Pinheiro&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyla-Pinheiro&theme=chartreuse-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+
+
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
 
