@@ -47,7 +47,7 @@
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&layout=compact&locale=pt-BR&&theme=highcontrast )](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro/dio-lab-open-source)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&&theme=highcontrast)](https://github.com/Kalyla-Pinheiro?tab=repositories)
 
 </div>
