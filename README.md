@@ -79,6 +79,10 @@
 [![REPOSITORIO](https://img.shields.io/badge/-NLW17-%23E4405F?style=for-the-badge&logoColor=white )](https://github.com/Kalyla-Pinheiro/nlw-17-trilha-iniciante)
 
 
+https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
+
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
