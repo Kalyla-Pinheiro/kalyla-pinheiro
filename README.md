@@ -5,7 +5,9 @@
 
 
 ## 🚀 Sobre mim
-  - 👩‍💻 Atualmente, estou cursando Sistemas de informação na Ufra. Nesse contexto, busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
+  - 👩‍💻 Atualmente, estou me especializando em Inteligência Artificial (IA) e o Machine Learning (ML).
+  - Bacharel em Sistemas de informação pela Ufra.
+  - Busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
     
   - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel.
 
