@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1ce7b59-c445-4b3e-8a6c-64e94dfd20ac" width="200" style="border-radius: 50%" alt="Kalyla Pinheiro"/>
+  <img src= https://github.com/user-attachments/assets/ef680db9-1daf-4ef2-a75d-14354fdf1f68 width="500" style="border-radius: 50%" alt="Kalyla Pinheiro"/>
 </p>
 
 <p align="center">
