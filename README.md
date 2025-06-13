@@ -4,38 +4,67 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Kalyla+Pinheiro;Seja+Bem-vindo!+:%29)
 
 
-## 🚀 Sobre mim
-  - 👩‍💻 Atualmente, estou me especializando em Inteligência Artificial (IA) e o Machine Learning (ML).
-  - Bacharel em Sistemas de informação pela Ufra.
-  - Busco constantemente aprender novas soluções e novas ferramentas para melhorar o meu aprendizado na área, tornando-o mais eficiente.
-    
-  - 🧠  Para melhorar o meu aprendizado estou realizando cursos na Udemy e na Dio, tanto nas áreas inicias de programação, como Algoritmos e Lógica de programação,quanto IA,linguagens como Java e Python. Além, de Segurança em aplicações web e Excel.
 
-## 📫 Conecte-se comigo
+<p align="center">
+  <img src=  width="160" style="border-radius: 50%" alt="Kalyla Pinheiro"/>
+</p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalyla_ti/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/users/kalylalobato)
-[![Perfil rocketseat](https://img.shields.io/badge/-Meu%20Perfil%20na%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/rocketid/kalyla-pinheiro)
-
-## ☕ Plataformas de estudo
-
-[![Udemy](https://img.shields.io/badge/%20Udemy-FFFFFF?style=for-the-badge&logo=Udemy&Color=white)](https://www.udemy.com/user/ocivaldo-da-silveira-pinheiro/)
-[![Rocketseat](https://img.shields.io/badge/-%20Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&Color=white)](https://app.rocketseat.com.br/)
-[![DIO](https://img.shields.io/badge/-%20DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white)](https://www.dio.me/)
-[![B7Web](https://img.shields.io/badge/-%20B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white)](https://alunos.b7web.com.br/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalyla-Pinheiro&color=FFD700" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Kalyla-Pinheiro?label=Seguidores&style=social" />
+</p>
 
 
-## Habilidades
- 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 👩‍💻 Sobre mim
+
+- 🎓 **Bacharel em Sistemas de Informação** pela UFRA.
+- 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
+- 💡 Apaixonada por tecnologia e aprendizado contínuo — sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!
+- 📚 Realizando cursos na **Udemy** e **DIO**, desde Algoritmos e Lógica de Programação até linguagens como **Java** e **Python**, além de temas como **Segurança em Aplicações Web** e **Excel**.
+
+## 🛠️ Skills
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/><br>Canva</td>
+  </tr>
+</table>
+
+## 🚀 Principais Projetos
+
+<div align="center">
+  <a href="https://github.com/Kalyla-Pinheiro/dio-lab-open-source">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&theme=highcontrast&locale=pt-BR" />
+  </a>
+  <a href="https://github.com/Kalyla-Pinheiro/nlw-17-trilha-iniciante">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=nlw-17-trilha-iniciante&theme=highcontrast&locale=pt-BR" />
+  </a>
+</div>
 
 
+## ☕ Plataformas de Estudo
+
+<p align="center">
+  <a href="https://www.udemy.com/user/kalyla-lobato-da-costa-pinheiro/"><img src="https://img.shields.io/badge/Udemy-FFFFFF?style=for-the-badge&logo=Udemy&logoColor=EA5252" /></a>
+  <a href="https://app.rocketseat.com.br/rocketid/kalyla-pinheiro"><img src="https://img.shields.io/badge/Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&logoColor=white" /></a>
+  <a href="https://www.dio.me/users/kalylalobato"><img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white" /></a>
+  <a href="https://alunos.b7web.com.br/"><img src="https://img.shields.io/badge/B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white" /></a>
+</p>
+
+
+## 📲 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.instagram.com/kalyla_ti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.dio.me/users/kalylalobato"><img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge&logo=Dio&logoColor=white"/></a>
+  <a href="https://app.rocketseat.com.br/rocketid/kalyla-pinheiro"><img src="https://img.shields.io/badge/Rocketseat-A020F0?style=for-the-badge&logo=rocketseat&logoColor=white"/></a>
+</p>
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 <div align="center">
@@ -73,6 +102,7 @@
 
 
 <a href="https://app.rocketseat.com.br/me/kalyla-pinheiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kalyla-pinheiro&type=card" width="280" alt="KALYLA LOBATO DA COSTA PINHEIRO's Rocket ID"/></a> 
+
 
 
 
