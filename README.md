@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalyla-Pinheiro&color=FFD700" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kalyla-Pinheiro&color=FFD700" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Kalyla-Pinheiro?label=Seguidores&style=social" />
 </p>
 
