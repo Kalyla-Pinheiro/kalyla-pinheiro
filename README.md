@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalyla-Pinheiro&color=FFD700" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Kalyla-Pinheiro?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/badge/Visualizações-1234-FFD700?style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Seguidores-5678-FFD700?style=for-the-badge" alt="Seguidores"/>
 </p>
+
 
 
 ## 👩‍💻 Sobre mim
