@@ -4,9 +4,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Kalyla+Pinheiro;Seja+Bem-vindo!+:%29)
 
 
-
 <p align="center">
-  <img src=  width="160" style="border-radius: 50%" alt="Kalyla Pinheiro"/>
+  <img src="https://github.com/user-attachments/assets/a1ce7b59-c445-4b3e-8a6c-64e94dfd20ac" width="200" style="border-radius: 50%" alt="Kalyla Pinheiro"/>
 </p>
 
 <p align="center">
