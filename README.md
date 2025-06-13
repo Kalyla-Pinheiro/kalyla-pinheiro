@@ -8,14 +8,6 @@
   <img src= https://github.com/user-attachments/assets/ef680db9-1daf-4ef2-a75d-14354fdf1f68 style="border-radius: 50%" alt="Kalyla Pinheiro"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalyla-Pinheiro&color=FFD700" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/Kalyla-Pinheiro?label=Seguidores&style=social" />
-</p>
-
-
-
-
 ## 👩‍💻 Sobre mim
 
 - 🎓 **Bacharel em Sistemas de Informação** pela UFRA.
