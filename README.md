@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Bachelor's in Information Systems** from UFRA.
+- 🎓 **Information Systems** from UFRA.
 - 🤖 Currently specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
 - 💡 Passionate about technology and continuous learning — always looking for new tools and solutions to boost my development!
 - 📚 Taking courses on **Udemy** and **DIO**, ranging from Algorithms and Programming Logic to languages like **Java** and **Python**, as well as topics like **Web Application Security** and **Excel**.
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 
 ## 👩‍💻 Sobre mim 
 
-- 🎓 **Bacharel em Sistemas de Informação** pela UFRA.
+- 🎓 **Formanda em Sistemas de Informação** pela UFRA.
 - 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
 - 💡 Apaixonada por tecnologia e aprendizado contínuo — sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!
 - 📚 Realizando cursos na **Udemy** e **DIO**, desde Algoritmos e Lógica de Programação até linguagens como **Java** e **Python**, além de temas como **Segurança em Aplicações Web** e **Excel**.
