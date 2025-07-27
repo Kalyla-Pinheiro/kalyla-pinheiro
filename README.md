@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 
 ## 👩‍💻 Sobre mim 
 
-- 🎓 **Formanda em Sistemas de Informação** pela UFRA.
+- 🎓 **Bacharel em Sistemas de Informação** pela UFRA - 2025.1.
 - 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
 - 💡 Apaixonada por tecnologia e aprendizado contínuo — sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!
 - 📚 Realizando cursos na **Udemy** e **DIO**, desde Algoritmos e Lógica de Programação até linguagens como **Java** e **Python**, além de temas como **Segurança em Aplicações Web** e **Excel**.
