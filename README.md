@@ -97,8 +97,10 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 ## 📊 Estatísticas do GitHub / GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=pt-BR&theme=highcontrast" alt="Estatísticas Gerais" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=pt-BR&theme=highcontrast" alt="Linguagens mais usadas / Most used languages" width="35%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalyla-Pinheiro&show_icons=true&locale=en&theme=highcontrast" alt="General Stats" width="44%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyla-Pinheiro&layout=compact&locale=en&theme=highcontrast" alt="Most used languages" width="35%" />
 </div>
 
 <div align="center">
