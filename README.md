@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=673AB7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=673AB7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!+%F0%9F%98%8A;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!+%F0%9F%98%8A;Welcome!+:%29)
 
 <p align="center">
   <img src= https://github.com/user-attachments/assets/ef680db9-1daf-4ef2-a75d-14354fdf1f68 style="border-radius: 50%" alt="Kalyla Pinheiro"/>
@@ -121,6 +121,6 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
     </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=673AB7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
 
 
