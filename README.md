@@ -2,39 +2,45 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!+%F0%9F%98%8A;Welcome!+:%29)
 
-<p align="center">
-  <img src= https://github.com/user-attachments/assets/ef680db9-1daf-4ef2-a75d-14354fdf1f68 style="border-radius: 50%" alt="Kalyla Pinheiro"/>
-</p>
 
-## 👩‍💻 Sobre Mim / About Me
+<table align="center">
+  <tr>
+    <td align="center" width="230">
+      <img src="https://github.com/user-attachments/assets/1e94e4c6-006e-46ab-9d9d-adca91779c86" 
+           width="220" 
+           style="border-radius: 10%; box-shadow: 0 0 10px #673AB7;" 
+           alt="Kalyla Pinheiro"/>
+    </td>
+    <td>
 
-<details open>
-<summary style="font-size: 1.8em; font-weight: bold; cursor: pointer; margin: 20px 0; padding: 15px; background-color: #FFD700; border-radius: 10px; text-align: center; border: 2px solid #FFA500;">
-Versão em Português
-</summary>
+  <h2>👩‍💻 Sobre Mim / About Me</h2>
 
-## 👩‍💻 Sobre Mim
+  <details open>
+  <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
+  Versão em Português
+  </summary>
 
-- 🎓 **Bacharel em Sistemas de Informação** pela UFRA (2025.1).
-- 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
-- 💡 Apaixonada por tecnologia e em constante aprendizado, sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!
-- 📚 Realizando cursos na **Udemy** e **DIO**, abrangendo Algoritmos, Lógica de Programação, linguagens como **Java** e **Python**, além de temas como **Segurança em Aplicações Web** e **Excel**.
+  - 🎓 **Bacharel em Sistemas de Informação** pela UFRA (2025.1).  
+  - 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.  
+  - 💡 Apaixonada por tecnologia e em constante aprendizado, sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!  
+  - 📚 Realizando cursos na **Udemy** e **DIO**, abrangendo **Algoritmos**, **Lógica de Programação**, **Java**, **Python**, **Segurança em Aplicações Web** e **Excel**.  
 
-</details>
+  </details>
 
-<details>
-<summary style="font-size: 1.8em; font-weight: bold; cursor: pointer; margin: 20px 0; padding: 15px; background-color: #FFD700; border-radius: 10px; text-align: center; border: 2px solid #FFA500;">
-English Version
-</summary>
+  <details>
+  <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
+  English Version
+  </summary>
 
-## 👩‍💻 About Me
+  - 🎓 **Bachelor's in Information Systems** from UFRA (2025.1).  
+  - 🤖 Currently specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
+  - 💡 Passionate about technology and continuous learning, always seeking new tools and solutions to boost my development!  
+  - 📚 Taking courses on **Udemy** and **DIO**, from **Algorithms** and **Programming Logic** to **Java**, **Python**, **Web Application Security**, and **Excel**.  
 
-- 🎓 **Bachelor's in Information Systems** from UFRA (2025.1).
-- 🤖 Currently specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-- 💡 Passionate about technology and continuous learning, always seeking new tools and solutions to boost my development!
-- 📚 Taking courses on **Udemy** and **DIO**, from Algorithms and Programming Logic to languages like **Java** and **Python**, as well as topics like **Web Application Security** and **Excel**.
+  </details>
 
-</details><br>
+  </tr>
+</table>
 
 ## 🛠️ Habilidades / Skills
 
