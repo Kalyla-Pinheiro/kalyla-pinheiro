@@ -20,10 +20,11 @@
   Versão em Português
   </summary>
 
-  - 🎓 **Bacharel em Sistemas de Informação** pela UFRA (2025.1).  
-  - 🤖 Atualmente me especializando em **Inteligência Artificial (IA)** e **Machine Learning (ML)**.  
-  - 💡 Apaixonada por tecnologia e em constante aprendizado, sempre em busca de novas ferramentas e soluções para impulsionar meu desenvolvimento!  
-  - 📚 Realizando cursos na **Udemy** e **DIO**, abrangendo **Algoritmos**, **Lógica de Programação**, **Java**, **Python**, **Segurança em Aplicações Web** e **Excel**.  
+- 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
+- 🤖 **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
+- 💻 Habilidades práticas em **Java, Python, programação, algoritmos e segurança web**  
+- 📚 Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
+- 🌱 Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
 
   </details>
 
@@ -32,10 +33,11 @@
   English Version
   </summary>
 
-  - 🎓 **Bachelor's in Information Systems** from UFRA (2025.1).  
-  - 🤖 Currently specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
-  - 💡 Passionate about technology and continuous learning, always seeking new tools and solutions to boost my development!  
-  - 📚 Taking courses on **Udemy** and **DIO**, from **Algorithms** and **Programming Logic** to **Java**, **Python**, **Web Application Security**, and **Excel**.  
+- 🎓 **Bachelor's in Information Systems** – UFRA (2025.1)  
+- 🤖 **Specialization in Artificial Intelligence (AI) & Machine Learning (ML)** – in progress  
+- 💻 Practical skills in **Java, Python, programming, algorithms, and web security**  
+- 📚 Continuous learning through hands-on courses on **Udemy & DIO**  
+- 🌱 Interested in **technological innovation, data science, and AI applications**
 
   </details>
 
