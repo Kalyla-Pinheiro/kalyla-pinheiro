@@ -22,7 +22,7 @@
 
 - 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
 - 🤖 **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
-- 💻 Habilidades práticas em **Java, Python, programação, algoritmos e segurança web**  
+- 💻 Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
 - 📚 Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
 - 🌱 Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
 
@@ -35,7 +35,7 @@
 
 - 🎓 **Bachelor's in Information Systems** – UFRA (2025.1)  
 - 🤖 **Specialization in Artificial Intelligence (AI) & Machine Learning (ML)** – in progress  
-- 💻 Practical skills in **Java, Python, programming, algorithms, and web security**  
+- 💻 Improving skills in **Java, Python, programming, algorithms, and web security**
 - 📚 Continuous learning through hands-on courses on **Udemy & DIO**  
 - 🌱 Interested in **technological innovation, data science, and AI applications**
 
