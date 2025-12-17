@@ -13,22 +13,9 @@
     </td>
     <td>
 
-  <h2>👩‍💻 Sobre Mim / About Me</h2>
+  <h2>👩‍💻 About Me / Sobre Mim</h2>
 
   <details open>
-  <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
-  Versão em Português
-  </summary>
-
-- 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
-- 🤖 **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
-- 💻 Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
-- 📚 Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
-- 🌱 Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
-
-  </details>
-
-  <details>
   <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
   English Version
   </summary>
@@ -38,6 +25,20 @@
 - 💻 Improving skills in **Java, Python, programming, algorithms, and web security**
 - 📚 Continuous learning through hands-on courses on **Udemy & DIO**  
 - 🌱 Interested in **technological innovation, data science, and AI applications**
+
+
+  </details>
+
+  <details>
+  <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
+ Versão em Português
+  </summary>
+
+- 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
+- 🤖 **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
+- 💻 Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
+- 📚 Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
+- 🌱 Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
 
   </details>
 
