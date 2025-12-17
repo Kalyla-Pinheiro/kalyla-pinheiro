@@ -31,7 +31,7 @@
 
   <details>
   <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
- Versão em Português
+  Versão em Português
   </summary>
 
 - 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
