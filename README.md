@@ -115,14 +115,16 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak de Contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak de Contribuições" />
 </div><br>
+
 
 ## GitHub Trophies 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="2000" />
+  <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=6&no-unknown=true" />
 </div><br>
+
 
 ## Contribution Graph
 
