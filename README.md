@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!+%F0%9F%98%8A;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!;Welcome!+:%29)
 
 
 <table align="center">
@@ -13,18 +13,18 @@
     </td>
     <td>
 
-  <h2>👩‍💻 About Me / Sobre Mim</h2>
+  <h2> About Me </h2>
 
   <details open>
   <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #673AB7; color: white; border-radius: 8px; text-align: center;">
   English Version
   </summary>
 
-- 🎓 **Bachelor's in Information Systems** – UFRA (2025.1)  
-- 🤖 **Specialization in Artificial Intelligence (AI) & Machine Learning (ML)** – in progress  
-- 💻 Improving skills in **Java, Python, programming, algorithms, and web security**
-- 📚 Continuous learning through hands-on courses on **Udemy & DIO**  
-- 🌱 Interested in **technological innovation, data science, and AI applications**
+-  **Bachelor's in Information Systems** – UFRA (2025.1)  
+-  **Specialization in Artificial Intelligence (AI) & Machine Learning (ML)** – in progress  
+-  Improving skills in **Java, Python, programming, algorithms, and web security**
+-  Continuous learning through hands-on courses on **Udemy & DIO**  
+-  Interested in **technological innovation, data science, and AI applications**
 
 
   </details>
@@ -34,18 +34,18 @@
   Versão em Português
   </summary>
 
-- 🎓 **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
-- 🤖 **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
-- 💻 Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
-- 📚 Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
-- 🌱 Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
+-  **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
+-  **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
+-  Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
+-  Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
+-  Interesse em **inovação tecnológica, ciência de dados e aplicações de IA**
 
   </details>
 
   </tr>
 </table>
 
-## 🛠️ Habilidades / Skills
+##  Skills
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@
   </tr>
 </table><br>
 
-## 🚀 Principais Projetos / Main Projects
+## Main Projects
 
 <div align="center"><a href="https://github.com/Kalyla-Pinheiro/dio-lab-open-source"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalyla-Pinheiro&repo=dio-lab-open-source&theme=highcontrast&locale=pt-BR" alt="DIO Lab Open Source" /></a>
    
@@ -70,7 +70,7 @@
 
 <details open>
 <summary style="font-weight: bold; cursor: pointer; margin: 10px 0; padding: 10px; background-color: #FFD700; border-radius: 5px; text-align: center;">
-Descrições / Descriptions
+Descriptions
 </summary>
 
 - **DIO Lab Open Source**: Contribuições para projetos open-source da DIO, focando em colaboração e boas práticas de código. / Contributions to DIO's open-source projects, focusing on collaboration and best coding practices.
@@ -82,7 +82,7 @@ Descrições / Descriptions
 https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 </details><br>
 
-## ☕ Plataformas de Estudo / Study Platforms
+## Study Platforms
 
 <p align="center">
   <a href="https://www.udemy.com/user/kalyla-lobato-da-costa-pinheiro/"><img src="https://img.shields.io/badge/Udemy-FFFFFF?style=for-the-badge&logo=Udemy&logoColor=EA5252" /></a>
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
   <a href="https://alunos.b7web.com.br/"><img src="https://img.shields.io/badge/B7Web-00008B?style=for-the-badge&logo=B7Web&logoColor=white" /></a>
 </p><br>
 
-## 📲 Conecte-se Comigo / Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/kalyla_ti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
   </a>
 </p><br>
 
-## 📊 Estatísticas do GitHub / GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -118,13 +118,13 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyla-Pinheiro&theme=chartreuse-dark" alt="Streak de Contribuições" />
 </div><br>
 
-## 🏆 Troféus do GitHub / GitHub Trophies 
+## GitHub Trophies 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kalyla-Pinheiro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="2000" />
 </div><br>
 
-## 📈 Gráfico de Contribuições / Contribution Graph
+## Contribution Graph
 
 <p align="center">
     <a>
