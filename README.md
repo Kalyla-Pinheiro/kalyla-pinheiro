@@ -122,10 +122,6 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 ## GitHub Trophies 
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=6&no-unknown=true" />
-</div><br>
-
-<div align="center">
   <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6&no-unknown=true" />
 </div>
 <br>
