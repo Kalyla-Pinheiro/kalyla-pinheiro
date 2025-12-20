@@ -1,13 +1,3 @@
-<div align="center">
-  <table>
-    <tr>
-      <td style="overflow-x:auto; white-space:nowrap; max-width:100%;">
-        <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=matrix&no-frame=true&no-bg=true&margin-w=6" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Kalyla+Pinheiro!!;Hello,+I'm+Kalyla+Pinheiro!!;Seja+bem-vindo!;Welcome!+:%29)
@@ -130,11 +120,13 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
 
 
 ## GitHub Trophies 
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6&no-unknown=true" />
-</div>
-<br>
+<table align="center">
+  <tr>
+    <td style="max-width:100%; overflow-x:auto; white-space:nowrap;">
+      <img src="https://github-trophies.vercel.app/?username=Kalyla-Pinheiro&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=8" />
+    </td>
+  </tr>
+</table>
 
 
 ## Contribution Graph
