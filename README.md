@@ -137,6 +137,8 @@ https://github.com/user-attachments/assets/5a64632b-a00f-45a2-9075-244702d45745
     </a>
 </p>
 
+![snake](https://raw.githubusercontent.com/Kalyla-Pinheiro/Kalyla-Pinheiro/output/github-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
 
 
