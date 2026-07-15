@@ -20,7 +20,7 @@
   English Version
   </summary>
 
--  **Bachelor's in Information Systems** – UFRA (2025.1)  
+-  **Bachelor's in Information Systems** – UFRA  
 -  **Specialization in Artificial Intelligence (AI) & Machine Learning (ML)** – in progress  
 -  Improving skills in **Java, Python, programming, algorithms, and web security**
 -  Continuous learning through hands-on courses on **Udemy & DIO**  
@@ -34,7 +34,7 @@
   Versão em Português
   </summary>
 
--  **Bacharel em Sistemas de Informação** – UFRA (2025.1)  
+-  **Bacharel em Sistemas de Informação** – UFRA 
 -  **Especialização em Inteligência Artificial (IA) & Machine Learning (ML)** – em andamento  
 -  Aprimorando habilidades em **Java, Python, programação, algoritmos e segurança web**  
 -  Aprendizado contínuo com cursos práticos em **Udemy & DIO**  
